@@ -4,6 +4,10 @@
 
 The Maranatha High School Computer Club is a club that meets every week to discuss and learn about computer science and technology. We have a variety of activities, including Congressional App Challenge, USACO, and more. We also have a Discord server where we can communicate and collaborate with each other. If you are interested in joining, please contact us at [Contact Us](#contact-us).
 
+## Current Team
+
+For more detailed information about our team members, please refer to our [team page](TEAM.md).
+
 ## Activities
 
 - **Congressional App Challenge**
@@ -24,11 +28,11 @@ The Maranatha High School Computer Club is a club that meets every week to discu
 
 ## Contact Us
 
-- Dr. Yu
+- Dr. Yu (Teacher Advisor)
   - Email: [t_yu@mhs-hs.org](mailto:t_yu@mhs-hs.org)
   - Phone: n/a
   - GitHub: [tedhyu](https://github.com/tedhyu)
-- Tony Kan
+- Tony Kan (President)
   - Email: [tianchengkan@gmail.com](mailto:tianchengkan@gmail.com)
   - Phone: n/a
   - GitHub: [TKanX](https://github.com/TKanX)
